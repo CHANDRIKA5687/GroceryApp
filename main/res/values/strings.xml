@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chandrika Grocery App</string>
+    <string name="add_button">add button</string>
+    <string name="grocery_list">Grocery List</string>
+</resources>
