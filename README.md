@@ -1,5 +1,16 @@
 # GroceryApp
 
+
+
+
+
+
+#Technologies Used 
+1. Kotlin 
+2. Java
+3. Android
+
+
 ![Screenshot (401)](https://user-images.githubusercontent.com/89838366/192011425-de29bd80-7864-4752-8b5a-af9cf404d067.png)
 
 
